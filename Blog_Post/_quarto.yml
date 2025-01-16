@@ -3,18 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Blog_Post"
+  title: "Blog Post"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/scotty369
+      - icon: linkedin
+        href: https://www.linkedin.com/in/scott-townsend-0ab515262/
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
+
+    
 
 
 
